@@ -1,0 +1,11 @@
+C:\Users\Efim\source\repos\CollectionAssertMath\CollectionMath\bin\Debug\net8.0\CollectionMath.deps.json
+C:\Users\Efim\source\repos\CollectionAssertMath\CollectionMath\bin\Debug\net8.0\CollectionMath.dll
+C:\Users\Efim\source\repos\CollectionAssertMath\CollectionMath\bin\Debug\net8.0\CollectionMath.pdb
+C:\Users\Efim\source\repos\CollectionAssertMath\CollectionMath\obj\Debug\net8.0\CollectionMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Efim\source\repos\CollectionAssertMath\CollectionMath\obj\Debug\net8.0\CollectionMath.AssemblyInfoInputs.cache
+C:\Users\Efim\source\repos\CollectionAssertMath\CollectionMath\obj\Debug\net8.0\CollectionMath.AssemblyInfo.cs
+C:\Users\Efim\source\repos\CollectionAssertMath\CollectionMath\obj\Debug\net8.0\CollectionMath.csproj.CoreCompileInputs.cache
+C:\Users\Efim\source\repos\CollectionAssertMath\CollectionMath\obj\Debug\net8.0\CollectionMath.dll
+C:\Users\Efim\source\repos\CollectionAssertMath\CollectionMath\obj\Debug\net8.0\refint\CollectionMath.dll
+C:\Users\Efim\source\repos\CollectionAssertMath\CollectionMath\obj\Debug\net8.0\CollectionMath.pdb
+C:\Users\Efim\source\repos\CollectionAssertMath\CollectionMath\obj\Debug\net8.0\ref\CollectionMath.dll
